@@ -1,7 +1,7 @@
 spring:
   profiles.active: local
   application:
-     name: johnsaccounts
+     name: account-service
   jpa:
      hibernate:
         ddl-auto: update
